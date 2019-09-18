@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">LayoutDasTelas</string>
+
+    <string-array name="retorno">
+        <item>EXECUTADO</item>
+        <item>IMPEDIDO</item>
+        <item>SEM ACESSO</item>
+    </string-array>
+
+    <string-array name="pavimento">
+        <item>ASFALTO</item>
+        <item>CIMENTO</item>
+        <item>TERRA</item>
+        <item>OUTRO</item>
+    </string-array>
+
+    <string-array name="classificao">
+        <item>NORMAL</item>
+        <item>COBERTO</item>
+        <item>FERRAGEM</item>
+        <item>MANUTENCAO - OPERACAO</item>
+        <item>CADASTRO</item>
+        <item>OUTROS</item>
+        <item>INFILTRACAO</item>
+        <item>LANCAMENTO</item>
+        <item>EXTRAVASOR</item>
+        <item>CONSTRUTIVO</item>
+        <item>DESTRAVAMENTO</item>
+        <item>IMPEDIMENTO</item>
+    </string-array>
+
+    <string-array name="situacao">
+        <item>NORMAL</item>
+        <item>COBERTO LOCALIZADO</item>
+        <item>COBERTO NAO LOCALIZADO</item>
+        <item>NIVELAR TAMPAO</item>
+        <item>REPOR TAMPAO</item>
+        <item>ARO DESLOCADO</item>
+        <item>ASSOREADO</item>
+        <item>ENTULHADO</item>
+        <item>COM MASSA</item>
+        <item>TRANSBORDANDO</item>
+        <item>AFOGADO</item>
+        <item>PARADO</item>
+        <item>OBSTRUIDO</item>
+        <item>TRABALHANDO</item>
+        <item>NAO CADASTRADO</item>
+        <item>SAIDA BOCA ALTA</item>
+        <item>OUTROS</item>
+        <item>COM INFILTRACAO</item>
+        <item>LANC. EM CORREGO - CANAL</item>
+        <item>LANC. EM GALERIA DE AGUAS PLUVIAIS</item>
+        <item>EXTRAVASOR CORREGO - CANAL</item>
+        <item>EXTRAVASOR GALERIA DE AGUAS PLUVIAIS</item>
+        <item>CONSERTO CANALETA - BANCADA</item>
+        <item>CONSTRUCAO CANALETA - BANCADA</item>
+        <item>CONSERTO CHAMINE - BALAO</item>
+        <item>REVESTIMENTO CHAMINE - BALAO</item>
+        <item>SINGULARIDADE TRAVADA</item>
+        <item>COBERTO SEM ACESSO</item>
+    </string-array>
+
+    <string-array name="prognostico">
+        <item>LAVAGEM PREVENTIVA</item>
+        <item>DESCOBRIMENTO, LIMPEZA DA SINGULARIDADE E LAVAGEM PREVENTIVA DA REDE</item>
+        <item>DETECCAO, DESCOBRIMENTO E LIMPEZA DA SINGULARIDADE E LAVAGEM PREVENTIVA DA REDE</item>
+        <item>NIVELAR TAMPAO</item>
+        <item>SUBSTITUICAO DE TAMPAO</item>
+        <item>MANUTENCAO DE ARO</item>
+        <item>DESOBSTRUCAO E LIMPEZA</item>
+        <item>CADASTRO DA SINGULARIDADE</item>
+        <item>READEQUACAO ESTRUTURAL</item>
+        <item>REPARACAO DA CANALETA / BANCADA</item>
+        <item>CONSTUCAO CANALETA / BANCADA</item>
+        <item>REPARACAO DA CHAMINE / BALAO</item>
+        <item>REVESTIMENTO CHAMINE / BALAO</item>
+        <item>DESTRAVAMENTO, LIMPEZA DA SINGULARIDADE E LAVAGEM PREVENTIVA DA REDE</item>
+        <item>SEM PROGNOSTICO</item>
+    </string-array>
+
+    <string-array name="material">
+        <item>PVC</item>
+        <item>CONCRETO</item>
+        <item>MANILHA</item>
+        <item>AMIANTO</item>
+        <item>OUTROS</item>
+    </string-array>
+    
+    <string-array name=""
+    
+</resources>
